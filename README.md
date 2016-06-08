@@ -1,2 +1,3 @@
-# template
-Remote template for Bootstrap, AngularJS &amp; etc
+# Remote Template 
+
+This is Sample files for Bootstrap, AngularJS &amp; etc
