@@ -1,7 +1,9 @@
 # Remote Template 
 
 This is Sample files for Bootstrap, AngularJS &amp; etc.
+
 All the required file (css, js, font) are live. 
+
 So you can use anywhere as long as you have internet connection. 
 
 
