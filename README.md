@@ -1,6 +1,6 @@
 # Remote Template 
 
-This is Sample files for Bootstrap, AngularJS &amp; etc.
+This is Sample files for Bootstrap.
 
 All the required file (css, js, font) are live. 
 
