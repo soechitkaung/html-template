@@ -15,3 +15,8 @@ view here http://rawgit.com/soechitkaung/template/master/bootstrap.html
 view here http://rawgit.com/soechitkaung/template/master/bootstrap_myanmar.html
 
 Myanmar font is from http://mmwebfonts.comquas.com/ by https://github.com/saturngod
+
+
+## Layout file with Bootstrap for Laravel  (bootstrap.blade.php)
+It should be under "resources\views\layouts\". 
+Contain @yield('css'), @yield('content') & @yield('js')
